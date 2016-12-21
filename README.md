@@ -1,6 +1,6 @@
 
 Pense-bête pour retrouver comment définir / lancer des tests autos en
-[Racket](https://racket-lang.org)
+[Racket](https://racket-lang.org).
 
 ## Installer Racket
 
@@ -23,4 +23,3 @@ Lancer le répertoire `test`
 Lancer le répertoire `src`
 
     $ raco test src
-
